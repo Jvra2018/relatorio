@@ -1,1 +1,9 @@
+No dia 31/05 foi realizado uma palestra na faculdade municipal de Barueri às 19:00, ministradas pelo advogado e o professor Fabio Menardi
+da matéria de legislação aplicada a TI que é aplicada para os alunos do 6º semestre, e também pelo aluno do 6º semestre Telmo Alexandre 
+da Silva Baía, especialista na área de TI na parte de segurança da informação e também pelo José Carlos Eduardo dos Santos Filho, que é 
+security officer na empresa Sonda, é pós-graduado em segurança da informação. Todos eles tiveram apresentados um assunto em comum, que 
+seria falar sobre a LGPD (Lei Geral de Proteção de Dados), tema muito discutido nos dias de hoje e no final ocorreu um painel em que os
+alunos poderiam tirar tirar dúvidas ou até mesmo debater com os palestrantes.
 
+O palestrante Fabio falou em geral sobre a LGPD, com foco na parte jurídica e também falando como ela foi surgida, de que maneira ela vai
+ser trabalhada dentro da área jurídica
