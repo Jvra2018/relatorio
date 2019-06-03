@@ -1,4 +1,4 @@
-No dia 31/05 foi realizado uma palestra na faculdade municipal de Barueri às 19:00, ministradas pelo advogado e o professor Fabio Menardi
+No dia 31/05 foi realizado uma palestra na Faculdade Municipal de Barueri às 19:00, ministradas pelo advogado e o professor Fabio Menardi
 da matéria de legislação aplicada a TI que é aplicada para os alunos do 6º semestre, e também pelo aluno do 6º semestre Telmo Alexandre 
 da Silva Baía, especialista na área de TI na parte de segurança da informação e também pelo José Carlos Eduardo dos Santos Filho, que é 
 security officer na empresa Sonda, é pós-graduado em segurança da informação. Todos eles tiveram apresentados um assunto em comum, que 
@@ -6,4 +6,15 @@ seria falar sobre a LGPD (Lei Geral de Proteção de Dados), tema muito discutid
 alunos poderiam tirar tirar dúvidas ou até mesmo debater com os palestrantes.
 
 O palestrante Fabio falou em geral sobre a LGPD, com foco na parte jurídica e também falando como ela foi surgida, de que maneira ela vai
-ser trabalhada dentro da área jurídica
+ser trabalhada dentro da área jurídica, como as empresas podem ser afetadas em caso de descumprimento dessa lei, e de que forma elas devem
+tratar os dados pessoais dos clientes, destaca-se também falar qual a função do controlador, operador e o DPO. Após isso, foi falado sobre 
+a aplicação da LGPD pelo palestrante Telmo, que seria a forma prática de se trabalhar com o uso da LGPD, citou como exemplo os termos de
+uso da lei da FMB (Faculdade Municipal de Barueri) e além disso citou vários softwares de uso para a aplicação da LGPD e explicou como
+cada um deles trabalham.
+
+Após isso, foi a vez do palestrante José Carlos Eduardo, que é security officer da empresa sonda, que seria uma multinacional chilena e
+maior integradora de serviços na américa latina e também falou de como vai ser aplicada a LGPD dentro dessa empresa e com isso mostrou 
+como a empresa procura se defender de ataques de segurança por meio de um framework de privatização de dados, pois é importante lembrar 
+que mesmo com os ataques hackers, a empresa responde processo jurídico, e por ultimo foi aberto um painel para perguntas e discussão sobre
+o tema discutido nesse dia.
+
